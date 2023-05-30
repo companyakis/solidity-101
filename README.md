@@ -1,2 +1,5 @@
-# solidity-egitimi
-Solidity 101 Eğitimi
+Solidity dilinin Ethereum ile sınırlı olmadığını en başta belirteyim.
+
+Birçok zincir tarafından Solidity kullanılmakta.
+
+"Rust-Solidity-React" üçlüsü tarafından Web3 evreninin şekillendirilmeye devam edeceğini düşünüyorum.
